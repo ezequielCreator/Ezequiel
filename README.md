@@ -1,4 +1,3 @@
-```markdown
 ### Hola 👋 Soy Ezequiel
 
 💻 Dev Python Jr | Apasionado por resolver problemas con código
