@@ -1,4 +1,3 @@
-Template:
 ```markdown
 ### Hola 👋 Soy Ezequiel
 
@@ -7,7 +6,7 @@ Template:
 🔭 Actualmente trabajo en: **Simulador de Préstamos con Python**
 🌱 Aprendiendo: **Flask, APIs, SQL**
 👯 Busco colaborar en: **Proyectos open source de Python**
-📫 Contacto: **tuemail@gmail.com**
+📫 Contacto: **ezequielalcala740@gmail.com**
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
