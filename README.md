@@ -5,6 +5,8 @@ Apasionado por crear interfaces de usuario y resolver problemas con código
 📚 **Aprendiendo**: Flask, APIs, Tailwind, Angular  
 📫 **Contacto**: ezequielalcala740@gmail.com
 
+📫 **Whatsapp**: https://wa.me5547996831255
+
 ## RESUMEN PROFESIONAL
 Desarrollador Front End Jr con 1 año de formación en HTML5, CSS3, JavaScript y React. 
 Desarrollé 3 proyectos responsivos con consumo de APIs, control de versiones con Git y deploy en Vercel. 
@@ -27,9 +29,18 @@ Busco primera oportunidad para crear interfaces modernas, accesibles y performá
 300+ horas: HTML5, CSS3, JavaScript ES6+, React, Git, SQL, Python
 
 ## HABILIDADES TÉCNICAS
-**Frontend:** HTML5 | CSS3 | JavaScript ES6+ | React | Tailwind CSS | Responsive Design
+**Frontend:** HTML5 | CSS3 | JavaScript ES6+ | React | Tailwind CSS | Responsive Design 
+
 **Backend/BD:** SQL | Python | Consumo de APIs REST | JSON
+
 **Herramientas:** Git | GitHub | VS Code | Vercel | Netlify | Figma | npm
+
+## Idiomas
+**Español Nativo**
+
+**Portugués Avanzado**
+
+**Inglés B1**
 
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,js,react,sql,python,git,github" />
