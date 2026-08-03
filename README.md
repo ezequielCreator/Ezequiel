@@ -5,7 +5,7 @@ Apasionado por crear interfaces de usuario y resolver problemas con código
 📚 **Aprendiendo**: Flask, APIs, Tailwind, Angular  
 📫 **Contacto**: ezequielalcala740@gmail.com
 
-📫 **Whatsapp**: https://wa.me5547996831255
+📫 **Whatsapp**:<a href="https://wa.me5547996831255">Contacto </a>
 
 ## RESUMEN PROFESIONAL
 Desarrollador Front End Jr con 1 año de formación en HTML5, CSS3, JavaScript y React. 
